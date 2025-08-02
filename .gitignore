@@ -28,6 +28,9 @@ bin/
 ### Mac OS ###
 .DS_Store
 
+### xmls ###
+.xml
+
 # Compiled class file
 *.class
 
