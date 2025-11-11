@@ -1,0 +1,6 @@
+Resultado = DERROTA Dificultad = FACIL Habitación = 3 PVRestantes = 0 ¿Botiquin? = false Armas = 0 Armaduras = 0
+Resultado = DERROTA Dificultad = FACIL Habitación = 3 PVRestantes = 0 ¿Botiquin? = true Armas = 0 Armaduras = 0
+Resultado = DERROTA Dificultad = FACIL Habitación = 4 PVRestantes = 0 ¿Botiquin? = false Armas = 0 Armaduras = 0
+Resultado = DERROTA Dificultad = FACIL Habitación = 4 PVRestantes = 0 ¿Botiquin? = false Armas = 0 Armaduras = 0
+Resultado = DERROTA Dificultad = FACIL Habitación = 3 PVRestantes = 0 ¿Botiquin? = false Armas = 0 Armaduras = 1
+Resultado = DERROTA Dificultad = FACIL Habitación = 5 PVRestantes = 0 ¿Botiquin? = true Armas = 1 Armaduras = 0
